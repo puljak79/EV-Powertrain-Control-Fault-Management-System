@@ -1,0 +1,10 @@
+# MATLAB & Simulink temporary files
+*.asv
+*.m~
+*.slxc
+*.autosave
+*.mex*
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+catastrophic_fault.mat
